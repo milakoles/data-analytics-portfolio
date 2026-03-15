@@ -1,4 +1,5 @@
 SQL Practice
 
-Beginner SQL exercises including SELECT,
-JOIN, and basic aggregation logic.
+Example analytical SQL written in BigQuery syntax.
+Includes joins, aggregations, window functions,
+and creation of an analytical view.
