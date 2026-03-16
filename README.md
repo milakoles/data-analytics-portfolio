@@ -18,7 +18,7 @@ Sales data analysis focused on trends and overall performance.
 https://public.tableau.com/views/Sales_17288537161750/Sales
 
 Tableau Public profile:  
-https://public.tableau.com/mila.kolesnyk
+https://public.tableau.com/app/profile/mila.kolesnyk/vizzes
 
 ---
 
@@ -31,9 +31,6 @@ and team performance.
 Tools used: Python, SQL, Tableau  
 Folder: projects/customer-support-analytics/
 
----
-
-## Practice
 
 Google Sheets  
 Data cleaning, formulas, pivot tables  
@@ -48,8 +45,3 @@ Data analysis and visualization basics
 Folder: practice/python/
 
 ---
-
-## Summary
-
-This portfolio demonstrates foundational analytics skills,
-practical use of data tools, and the ability to communicate insights clearly.
