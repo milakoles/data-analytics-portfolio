@@ -22,14 +22,16 @@ This portfolio is intended to support non‑profit and social impact organizatio
 - Financial and operational data understanding  
 
 ## Examples of work
-- Practice Tableau dashboards  
+- Practice Tableau dashboards
+  
   https://public.tableau.com/app/profile/mila.kolesnyk/vizzes
-- Example Google Sheets file: https://docs.google.com/spreadsheets/d/1ogHGg4cXvFN0F2QbMnDT7riXqcI93x3RLShbl8SnQj8
-- 
-- Example Google Colab notebook (practice)  
-  Exploratory data analysis with basic data cleaning and visualization  
-  https://colab.research.google.com/drive/1ktS8FQ9Zs5qwSrEcr1pmrG963NObjmdM?usp=sharing
-``
-
+  
+- Example Google Sheets file:
+ 
+  https://docs.google.com/spreadsheets/d/1ogHGg4cXvFN0F2QbMnDT7riXqcI93x3RLShbl8SnQj8
+  
+- Example Google Colab notebook (practice): Exploratory data analysis with basic data cleaning and visualization
+  
+  https://colab.research.google.com/drive/1ktS8FQ9Zs5qwSrEcr1pmrG963NObjmdM?usp=sharing 
 
 I am interested in volunteering on small, well‑defined tasks where data analysis and reporting can help organizations better understand their data and measure impact.
