@@ -1,47 +1,28 @@
-# Data Analytics Portfolio – Mila Kolesnyk
 
-Beginner to Junior Data Analyst portfolio focused on practical analytics,
-data visualization, and clear insight communication.
+# Data for Good – Analytics Practice  
+**Mila Kolesnyk**
 
-This portfolio is prepared for volunteer and junior data analyst roles.
+This repository contains my early data analytics practice, prepared for volunteer and data‑for‑good projects.
 
----
+I have a strong professional background in finance and accounting, and have completed formal coursework in data analytics. I am currently **developing and strengthening practical skills** in SQL, Tableau, and Python, while **Excel is at an advanced level**.
 
-## Tableau Dashboards
+This portfolio is intended to support non‑profit and social impact organizations with basic data analysis, reporting, and visualization tasks, while continuing to build hands‑on analytics experience on real datasets.
 
-Email Metrics Dashboard  
-Email marketing performance analysis using key metrics and trends.  
-https://public.tableau.com/views/EmailMetrics_17296140290990/EmailMetrics
+## Current focus
+- Data cleaning and validation  
+- Basic data analysis and aggregation  
+- Simple dashboards and visualizations  
+- Working with structured datasets  
 
-Sales Performance Dashboard  
-Sales data analysis focused on trends and overall performance.  
-https://public.tableau.com/views/Sales_17288537161750/Sales
+## Skills & Tools
+- **Excel** (advanced: formulas, pivot tables, data analysis)  
+- **SQL** (basic queries, joins, aggregations – skill development)  
+- **Tableau** (basic dashboards and visualizations – skill development)  
+- **Python** (introductory data analysis – skill development)  
+- Financial and operational data understanding  
 
-Tableau Public profile:  
-https://public.tableau.com/app/profile/mila.kolesnyk/vizzes
+## Examples of work
+- Practice Tableau dashboards  
+  https://public.tableau.com/app/profile/mila.kolesnyk/vizzes
 
----
-
-## Projects
-
-Customer Support Service Analytics  
-Project analyzing response time, handling time, SLA compliance,
-and team performance.
-
-Tools used: Python, SQL, Tableau  
-Folder: projects/customer-support-analytics/
-
-
-Google Sheets  
-Data cleaning, formulas, pivot tables  
-Folder: practice/google_sheets/
-
-SQL  
-Basic queries, joins, aggregations  
-Folder: practice/sql/
-
-Python  
-Data analysis and visualization basics  
-Folder: practice/python/
-
----
+I am interested in volunteering on small, well‑defined tasks where data analysis and reporting can help organizations better understand their data and measure impact.
