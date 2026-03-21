@@ -2,7 +2,7 @@
 # Data for Good – Analytics Practice  
 **Mila Kolesnyk**
 
-This repository contains my early data analytics practice, prepared for volunteer and data‑for‑good projects.
+This repository contains my data analytics practice, prepared for volunteer and data‑for‑good projects.
 
 I have a strong professional background in finance and accounting, and have completed formal coursework in data analytics. I am currently **developing and strengthening practical skills** in SQL, Tableau, and Python, while **Excel is at an advanced level**.
 
