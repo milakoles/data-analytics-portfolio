@@ -1,6 +1,5 @@
 
 # Data for Good – Analytics Practice  
-**Mila Kolesnyk**
 
 This repository contains my data analytics practice, prepared for volunteer and data‑for‑good projects.
 
