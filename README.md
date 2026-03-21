@@ -24,5 +24,6 @@ This portfolio is intended to support non‑profit and social impact organizatio
 ## Examples of work
 - Practice Tableau dashboards  
   https://public.tableau.com/app/profile/mila.kolesnyk/vizzes
+- Example Google Sheets file: https://docs.google.com/spreadsheets/d/1ogHGg4cXvFN0F2QbMnDT7riXqcI93x3RLShbl8SnQj8
 
 I am interested in volunteering on small, well‑defined tasks where data analysis and reporting can help organizations better understand their data and measure impact.
