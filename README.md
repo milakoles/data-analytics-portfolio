@@ -8,6 +8,8 @@ I have a strong professional background in finance and accounting, and have comp
 
 This portfolio is intended to support non‑profit and social impact organizations with basic data analysis, reporting, and visualization tasks, while continuing to build hands‑on analytics experience on real datasets.
 
+I am interested in volunteering on small, well‑defined tasks where data analysis and reporting can help organizations better understand their data and measure impact.
+
 ## Current focus
 - Data cleaning and validation  
 - Basic data analysis and aggregation  
@@ -34,4 +36,3 @@ This portfolio is intended to support non‑profit and social impact organizatio
   
   https://colab.research.google.com/drive/1ktS8FQ9Zs5qwSrEcr1pmrG963NObjmdM?usp=sharing 
 
-I am interested in volunteering on small, well‑defined tasks where data analysis and reporting can help organizations better understand their data and measure impact.
